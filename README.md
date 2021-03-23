@@ -30,5 +30,5 @@ this is for android development project
         - gandi kota
      - chittoor
         - tirupati
- =========================================================
- <img src="https://image.shutterstock.com/image-photo/surreal-image-african-elephant-wearing-260nw-1365289022.jpg"
+
+<img src="https://image.shutterstock.com/image-photo/surreal-image-african-elephant-wearing-260nw-1365289022.jpg"
